@@ -1,0 +1,18 @@
+{
+  "name": "leet-code-training",
+  "description": "LeetCode Training",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwathen/leetcode-training.git"
+  },
+  "keywords": [
+    "leetcode",
+    "training"
+  ],
+  "author": "Benjamin Wathen",
+  "license": "ISC",
+  "homepage": "https://github.com/bwathen/leetcode-training#readme"
+}

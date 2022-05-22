@@ -1,3 +1,7 @@
+# What?
+
+I use this repository for tracking my leetcode training
+
 # How to use
 
 Run `node problems/<path-to-problem-folder>`
