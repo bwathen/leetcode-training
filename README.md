@@ -11,3 +11,7 @@ You need to manually put an input in the problem folder.
 # Why?
 
 Sometimes the leetcode editor fails out for a call stack exceeding its limit. This is just a way to get around those ambiguous failures. Also VSCode is just nicer to edit in!
+
+# Hints!
+
+* Remove console logs before submitting. It may improve the memory and runtime a lot!
